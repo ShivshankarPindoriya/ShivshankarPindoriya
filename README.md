@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShivshankarPindoriya
 - 👀 I’m interested for bandminton and coding
 - 🌱 I’m currently learning React, Javascript, Typescript and NextJS 
-- 💞️ I’m looking to collaborate on open source projects
 - 📫 reach out to me @shiv.dangi71@gmail.com
 
 <!---
